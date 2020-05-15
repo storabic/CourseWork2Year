@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="logo">Maf<font color='#980002'> i</font>a</string>
+    <string name="create_lobby">Создать игру</string>
+    <string name="join_lobby">Найти игру</string>
+    <string name="settings">Настройки</string>
+    <string name="faq">Помощь</string>
+    <string name="login">Логин</string>
+    <string name="help">Помощь</string>
+    <string name="join_random">Случайный</string>
+    <string name="join">Войти</string>
+    <string name="cancel">Выход</string>
+    <string name="player_list">Все игроки</string>
+    <string name="n_mafia">Мафия</string>
+    <string name="civilian">Мирный житель</string>
+    <string name="mafia">Мафия</string>
+    <string name="has_cop">Комиссар</string>
+    <string name="has_doctor">Доктор</string>
+    <string name="has_lover">Любовница</string>
+    <string name="start_lobby">Начать игру</string>
+    <string name="url">http://192.168.43.73:8000/api/</string>
+    <string name="problem">Проблемы с сервером. Подождите немного</string>
+    <string name="settings_lang">Языковые настройки</string>
+    <string name="helpmsg">"Добро пожаловать в игру Мафия\n"
+    "Нажмите создать игру и позовите друзей с помощью ключа\n"
+    "или нажмите найти игру и присоединитесь к уже существующей.\n"
+        "Создайте свой уникальный логин!"</string>
+    <string name="name">Ваш логин уже занят</string>
+    <string name="login_length">Ваш логин должен быть длиной 3–12 символов</string>
+    <string name="role_error">Неправильная расстановка ролей
+        Попробуйте уменьшить количество мафии\n
+        Или убрать другие роли из игры</string>
+    <string name="gameinfo">Информация</string>
+    <string name="chat">Чат</string>
+    <string name="day">День</string>
+    <string name="friends">Сообщники</string>
+    <string name="game_faq">Справа находится чат, обсудите с другими игроками текущую ситуацию. Мафия может разговаривать между собой ночью. Выбирайте подозрительных игроков слева.</string>
+    <string name="night">Ночь</string>
+    <string name="not_night">День</string>
+    <string name="your_name">Вы</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    tools:context=".KeyPicker">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <NumberPicker
+        android:id="@+id/char0"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:layout_weight="1" />
+
+    <NumberPicker
+        android:id="@+id/char1"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:layout_weight="1" />
+
+    <NumberPicker
+        android:id="@+id/char2"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:layout_weight="1" />
+
+    <NumberPicker
+        android:id="@+id/char3"
+        android:layout_width="159dp"
+        android:layout_height="150dp" />
+
+</LinearLayout>

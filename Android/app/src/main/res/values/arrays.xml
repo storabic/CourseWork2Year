@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="Русский">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="English">
+        <item>русский</item>
+        <item>english</item>
+    </string-array>
+</resources>
